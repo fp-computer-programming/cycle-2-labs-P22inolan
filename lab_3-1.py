@@ -10,5 +10,4 @@ a = str(a)
 print(type(a))
 
 a = bool(a)
-a == 2
-print((a))
+print(a == 2)
