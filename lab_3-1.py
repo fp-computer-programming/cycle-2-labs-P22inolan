@@ -11,3 +11,4 @@ print(type(a))
 
 a = bool(a)
 print(a == 2)
+# 2 isn't a bool, bool checks for type and value
